@@ -1,6 +1,6 @@
 body {
-  background: #61481C;
-  color: #E6B325;
+  background: #453C67;
+  color: #F2F7A1;
   font-family: 'Lora', serif;
   font-size: 17px;
   font-weight: lighter;
@@ -27,12 +27,12 @@ p {
 a {
   font-family: 'Roboto', sans-serif;
   text-decoration: none;
-  color: #E6B325;
+  color: #F2F7A1;
   font-weight: 600;
   font-size: 16px;
 }
 h2 {
-  color: #E6B325;
+  color: #F2F7A1;
   font-size: 20px;
   font-weight: lighter;
   font-weight: 500;
@@ -57,7 +57,7 @@ li {
   margin: 0 auto;
 }
 .card-white {
-  background-color: #A47E3B;
+  background-color: #6D67E4;
   padding: 40px;
   box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
   border-radius: 4px;
@@ -80,7 +80,7 @@ li {
   color: #BF9742;
 }
 .btn-blue {
-  background-color: #E6B325;
+  background-color: #46C2CB;
   color: white;
   padding: 15px 20px;
   border-radius: 4px;
